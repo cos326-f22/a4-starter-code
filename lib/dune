@@ -1,0 +1,3 @@
+(library
+ (name a4lib)
+ (libraries str))
